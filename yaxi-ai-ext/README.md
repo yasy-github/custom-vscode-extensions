@@ -1,6 +1,6 @@
-# yaxi-ai-ext README
+# AI Assistant powered by DeepSeek R1
 
-This extension is created for locally used.
+This custom VS Code extension is created for learning purposes, and use in a local environment only.
 
 In terminal, type this command to install
 
