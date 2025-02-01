@@ -2,9 +2,13 @@
 
 This extension is created for locally used.
 
-In terminal, type this
+In terminal, type this command to install
 
 `code --install-extension yaxi-ai-ext-0.0.1.vsix`
+
+To use it, open the command pallete and type
+
+`>Run DeepSeek`
 
 ## Features
 
