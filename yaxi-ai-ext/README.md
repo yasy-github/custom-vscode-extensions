@@ -2,6 +2,10 @@
 
 This extension is created for locally used.
 
+In terminal, type this
+
+`code --install-extension yaxi-ai-ext-0.0.1.vsix`
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
